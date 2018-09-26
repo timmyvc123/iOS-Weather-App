@@ -5,4 +5,4 @@ This app uses cocopods like JSON, and Alamofire. All weather data was gathered f
 followed video tutorials from the London app brewery through Udemy to create this.
 
 
-![iOS Weather App] (https://i.imgur.com/IN8Cn09.gif)
+![iOS Weather App] ([url=https://imgur.com/IN8Cn09]http://i.imgur.com/IN8Cn09.gifv[/url])
